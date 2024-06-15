@@ -19,6 +19,12 @@ def get_quote():
             "quote":"\"Data is not information, information is not knowledge, knowledge is not understanding, understanding is not wisdom.\"",
              "quote_author": "~ Clifford Stoll"
 
+        },
+        "quote3":{
+            "quote_id": "quote3",
+            "quote":"\"Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.\"",
+             "quote_author": "~ Albert Einstein"
+
         }
     }
     if  quote_data:
