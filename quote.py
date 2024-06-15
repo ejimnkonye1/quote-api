@@ -12,12 +12,12 @@ def get_quote():
         "quote1":{
           "quote_id": "quote1",
         "quote" :"\"The quieter you become, the more you can hear. This is the essence of centering.\"",
-        "quote_author": "Baba Ram Dass"
+        "quote_author": " ~ Baba Ram Dass"
         },
         "quote2":{
             "quote_id": "quote2",
-            "quote":"Data is not information, information is not knowledge, knowledge is not understanding, understanding is not wisdom.",
-             "quote_author": "Clifford Stoll"
+            "quote":"\"Data is not information, information is not knowledge, knowledge is not understanding, understanding is not wisdom.\"",
+             "quote_author": "~ Clifford Stoll"
 
         }
     }
